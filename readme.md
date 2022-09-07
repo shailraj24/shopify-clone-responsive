@@ -20,7 +20,7 @@
 
 ## Deploye link
 
-- [shopify-clone-by-shailraj]()
+- [shopify-clone-by-shailraj](https://shopifty-clone-shailraj.netlify.app/)
 
 ## Screenshots
 
